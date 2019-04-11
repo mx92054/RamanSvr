@@ -43,4 +43,6 @@ public:
 	CListBox m_lstMess;
 protected:
 	afx_msg LRESULT OnModbussvr(WPARAM wParam, LPARAM lParam);
+public:
+	afx_msg void OnDestroy();
 };

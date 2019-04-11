@@ -95,6 +95,7 @@ bool CModbusSvr::InitSocket()
 DWORD WINAPI  CModbusSvr::ServerAcceptThread(void* pParam) 
 {
 	CModbusSvr* pSvr = (CModbusSvr*)pParam ;
+	char buf[100] ;
 
 	while(pSvr->bRunning)
 	{
@@ -145,7 +146,6 @@ DWORD WINAPI  CModbusSvr::ServerAcceptThread(void* pParam)
 					unsigned int Len = 	pClient->m_MBAP[4]<< 8 | pClient->m_MBAP[5] ;
 					if ( Len > 255 && Len < 2 )
 					{
-						char* buf = new char[100] ;
 						sprintf(buf,"Recv data format error!") ;
 						::SendMessage(pSvr->hWnd,WM_MODBUSSVR,0,(LPARAM)(LPCTSTR)buf) ;
 						pSvr->PostRecvMBAP(pClient) ;
@@ -165,7 +165,6 @@ DWORD WINAPI  CModbusSvr::ServerAcceptThread(void* pParam)
 				}
 				else
 				{
-					char* buf = new char[100] ;
 					unsigned int ID,IP,Len ;
 					ID = pClient->m_MBAP[0] << 8 | pClient->m_MBAP[1] ;
 					IP = pClient->m_MBAP[2] << 8 | pClient->m_MBAP[3] ;
@@ -222,6 +221,8 @@ DWORD WINAPI  CModbusSvr::ServerAcceptThread(void* pParam)
 CClientInfo* CModbusSvr::OnSocketConnected(SOCKET sClientSocket,sockaddr_in* saClient)
 {
 	bool bDelete = false ;
+	char buf[100] ;
+
 	if ( saClient == NULL )
 	{
 		sockaddr_in* pTempClientAddr = new sockaddr_in ;
@@ -231,7 +232,6 @@ CClientInfo* CModbusSvr::OnSocketConnected(SOCKET sClientSocket,sockaddr_in* saC
 			int nErrorCode = ::WSAGetLastError() ;
 			if ( SOCKET_ERROR == getpeername(sClientSocket,(sockaddr*)pTempClientAddr,&nLen) )
 			{
-					char* buf = new char[100] ;
 					sprintf(buf,"get peer name error") ;
 					::SendMessage(hWnd,WM_MODBUSSVR,0,(LPARAM)(LPCTSTR)buf) ;	
 			}
@@ -257,7 +257,6 @@ CClientInfo* CModbusSvr::OnSocketConnected(SOCKET sClientSocket,sockaddr_in* saC
 	if ( bDelete )
 		delete saClient ;
 	
-	char* buf = new char[100] ;
 	sprintf(buf,"%s:%d connect",pClient->strIP,pClient->nPort) ;
 	::SendMessage(hWnd,WM_MODBUSSVR,0,(LPARAM)(LPCTSTR)buf) ;
 	return pClient ;
@@ -270,6 +269,8 @@ CClientInfo* CModbusSvr::OnSocketConnected(SOCKET sClientSocket,sockaddr_in* saC
 //--------------------------------------------------------------------
 void CModbusSvr::OnSocketDisconnect(SOCKET aClientSocket)
 {
+	char buf[100] ;
+
 	LockClientArray() ;
 	for(int i = 0 ; i < m_ClientArray.GetSize() ; i++) 
 	{
@@ -277,7 +278,6 @@ void CModbusSvr::OnSocketDisconnect(SOCKET aClientSocket)
 		
 		if ( pClient->sSocket == aClientSocket )
 		{
-			char* buf = new char[100] ;
 			sprintf(buf,"%s:%d disconnect",pClient->strIP,pClient->nPort) ;
 			::SendMessage(hWnd,WM_MODBUSSVR,0,(LPARAM)(LPCTSTR)buf) ;			
 			delete pClient ;
@@ -346,7 +346,7 @@ bool CModbusSvr::PostAccept(CClientInfo* pClient)
 		return true ;
 	}
 
-	char* buf = new char[100] ;
+	char buf[100] ;
 	sprintf(buf,"AcceptEx error") ;
 	::SendMessage(hWnd,WM_MODBUSSVR,0,(LPARAM)(LPCTSTR)buf) ;	
 	return false ;
@@ -372,7 +372,7 @@ void CModbusSvr::PostRecvMBAP(CClientInfo* p)
 		int nError = WSAGetLastError() ;
 		if ( nError != ERROR_IO_PENDING )
 		{
-			char* buf = new char[100] ;
+			char buf[100] ;
 			sprintf(buf,"WSARecv error (MBAP code:%d)",nError) ;
 			::SendMessage(hWnd,WM_MODBUSSVR,0,(LPARAM)(LPCTSTR)buf) ;	
 		}
@@ -403,7 +403,7 @@ void CModbusSvr::PostRecvDATA(CClientInfo* p)
 		int nError = WSAGetLastError() ;
 		if ( nError != ERROR_IO_PENDING )
 		{
-			char* buf = new char[100] ;
+			char buf[100] ;
 			sprintf(buf,"WSARecv error (DATA code:%d)",nError) ;
 			::SendMessage(hWnd,WM_MODBUSSVR,0,(LPARAM)(LPCTSTR)buf) ;
 		}
@@ -501,7 +501,7 @@ exec:
 		int nError = WSAGetLastError() ;
 		if ( nError != ERROR_IO_PENDING )
 		{
-			char* buf = new char[100] ;
+			char buf[100] ;
 			sprintf(buf,"WSASend error (code:%d)",nError) ;
 			::SendMessage(hWnd,WM_MODBUSSVR,0,(LPARAM)(LPCTSTR)buf) ;	
 		}

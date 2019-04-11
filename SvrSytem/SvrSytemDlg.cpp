@@ -29,7 +29,6 @@ public:
 // 实现
 protected:
 	DECLARE_MESSAGE_MAP()
-//	afx_msg LRESULT OnModbussvr(WPARAM wParam, LPARAM lParam);
 };
 
 CAboutDlg::CAboutDlg() : CDialogEx(CAboutDlg::IDD)
@@ -69,6 +68,7 @@ BEGIN_MESSAGE_MAP(CSvrSytemDlg, CDialogEx)
 	ON_WM_QUERYDRAGICON()
 	ON_BN_CLICKED(IDC_BTNMODBUS, &CSvrSytemDlg::OnBnClickedBtnmodbus)
 	ON_MESSAGE(WM_MODBUSSVR, &CSvrSytemDlg::OnModbussvr)
+	ON_WM_DESTROY()
 END_MESSAGE_MAP()
 
 
@@ -176,16 +176,23 @@ void CSvrSytemDlg::OnBnClickedBtnmodbus()
 
 afx_msg LRESULT CSvrSytemDlg::OnModbussvr(WPARAM wParam, LPARAM lParam)
 {
-		char *p = (char*)lParam ;
 	CString str ;
 	time_t tt = time(NULL) ;
 	tm* t = localtime(&tt) ;
 	str.Format("%04d-%02d-%02d %02d:%02d:%02d %s",t->tm_year+1990,t->tm_mon+1,t->tm_mday,
 												t->tm_hour,t->tm_min,t->tm_sec,
-												p) ;
+												(char*)lParam) ;
 
 	m_lstMess.AddString(str) ;
-	//	FormatMessage(p) ;
-	delete p ;
 	return 0;
+}
+
+
+void CSvrSytemDlg::OnDestroy()
+{
+	CDialogEx::OnDestroy();
+
+	// TODO: 在此处添加消息处理程序代码
+	svr.bRunning = false ;
+	Sleep(500) ;
 }
