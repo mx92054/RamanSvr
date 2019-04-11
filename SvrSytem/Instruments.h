@@ -5,18 +5,21 @@
 #if !defined(AFX_INSTRUMENTS_H__B8841629_94B5_4D97_91F5_056AC9639AB4__INCLUDED_)
 #define AFX_INSTRUMENTS_H__B8841629_94B5_4D97_91F5_056AC9639AB4__INCLUDED_
 
+#include "LogFileHelper.h"
+
 #if _MSC_VER > 1000
 #pragma once
 #endif // _MSC_VER > 1000
 
 #define SERIALRECV_LEN	100
 #define SERIALSEND_LEN	100
-#define PIXEL_FLAG 1024
+#define PIXEL_FLAG 3
+#define PIXEL      1024
 #define WM_MODBUSSVR  WM_USER+221
-
 
 typedef unsigned short u_short ;
 typedef unsigned char  u_char ;
+
 
 class CInstrument
 {
@@ -32,7 +35,7 @@ private:
 	CRITICAL_SECTION  m_cs ;
 	HWND		m_hWnd ;
 
-	//CLogFileHelper log ;
+	CLogFileHelper log ;
 
 public:
 	CInstrument()

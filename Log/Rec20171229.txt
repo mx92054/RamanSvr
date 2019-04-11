@@ -1,0 +1,100 @@
+2107-12-26 02:58:22 Start COM1 Success
+2107-12-26 02:58:22 Init socket success
+2107-12-26 03:00:17 Initial CCD success
+2107-12-26 03:03:54 start scaning
+2107-12-26 03:03:55 scaning data
+2107-12-26 03:05:13 finish scaning
+2107-12-26 03:05:15 scaning data
+2107-12-26 03:05:46 start scaning
+2107-12-26 03:05:47 finish scaning
+2107-12-26 03:05:49 scaning data
+2107-12-26 11:12:10 finish scaning
+2107-12-26 11:12:12 scaning data
+2107-12-26 11:12:42 finish scaning
+2107-12-26 11:12:45 scaning data
+2107-12-26 18:00:00 Switch on CCD Power
+2107-12-26 18:01:08 Initial CCD success
+2107-12-26 18:01:08 Cool on CCD
+2107-12-26 18:02:32 Start Scanning
+2107-12-26 18:02:33 start scaning
+2107-12-26 18:02:34 finish scaning
+2107-12-26 18:02:37 scaning data
+2107-12-26 18:02:38 Cooling off CCD
+2107-12-26 19:00:00 Switch on CCD Power
+2107-12-26 19:00:17 Initial CCD success
+2107-12-26 19:00:17 Cool on CCD
+2107-12-26 19:01:38 Start Scanning
+2107-12-26 19:01:39 start scaning
+2107-12-26 19:01:40 finish scaning
+2107-12-26 19:01:43 scaning data
+2107-12-26 19:01:44 Cooling off CCD
+2107-12-26 20:00:00 Switch on CCD Power
+2107-12-26 20:00:17 Initial CCD success
+2107-12-26 20:00:17 Cool on CCD
+2107-12-26 20:01:21 Start Scanning
+2107-12-26 20:01:22 start scaning
+2107-12-26 20:01:23 finish scaning
+2107-12-26 20:01:24 scaning data
+2107-12-26 20:01:27 Cooling off CCD
+2107-12-27 09:07:34 Initial CCD success
+2107-12-27 18:00:00 Switch on CCD Power
+2107-12-27 18:01:08 Initial CCD success
+2107-12-27 18:01:08 Cool on CCD
+2107-12-27 18:02:33 Start Scanning
+2107-12-27 18:02:34 start scaning
+2107-12-27 18:02:35 finish scaning
+2107-12-27 18:02:38 scaning data
+2107-12-27 18:02:39 Cooling off CCD
+2107-12-27 19:00:00 Switch on CCD Power
+2107-12-27 19:00:17 Initial CCD success
+2107-12-27 19:00:17 Cool on CCD
+2107-12-27 19:01:40 Start Scanning
+2107-12-27 19:01:41 start scaning
+2107-12-27 19:01:42 finish scaning
+2107-12-27 19:01:45 scaning data
+2107-12-27 19:01:46 Cooling off CCD
+2107-12-27 20:00:00 Switch on CCD Power
+2107-12-27 20:00:16 Initial CCD success
+2107-12-27 20:00:16 Cool on CCD
+2107-12-27 20:01:21 Start Scanning
+2107-12-27 20:01:22 start scaning
+2107-12-27 20:01:23 finish scaning
+2107-12-27 20:01:24 scaning data
+2107-12-27 20:01:27 Cooling off CCD
+2107-12-28 18:00:00 Switch on CCD Power
+2107-12-28 18:00:17 Initial CCD success
+2107-12-28 18:00:17 Cool on CCD
+2107-12-28 18:01:38 Start Scanning
+2107-12-28 18:01:39 start scaning
+2107-12-28 18:01:40 finish scaning
+2107-12-28 18:01:43 scaning data
+2107-12-28 18:01:44 Cooling off CCD
+2107-12-28 19:00:00 Switch on CCD Power
+2107-12-28 19:00:16 Initial CCD success
+2107-12-28 19:00:16 Cool on CCD
+2107-12-28 19:01:38 Start Scanning
+2107-12-28 19:01:39 start scaning
+2107-12-28 19:01:40 finish scaning
+2107-12-28 19:01:43 scaning data
+2107-12-28 19:01:44 Cooling off CCD
+2107-12-28 20:00:00 Switch on CCD Power
+2107-12-28 20:00:17 Initial CCD success
+2107-12-28 20:00:17 Cool on CCD
+2107-12-28 20:01:22 Start Scanning
+2107-12-28 20:01:23 start scaning
+2107-12-28 20:01:24 finish scaning
+2107-12-28 20:01:25 scaning data
+2107-12-28 20:01:28 Cooling off CCD
+2107-12-29 18:00:00 Switch on CCD Power
+2107-12-29 18:00:16 Initial CCD success
+2107-12-29 18:00:16 Cool on CCD
+2107-12-29 18:01:36 Start Scanning
+2107-12-29 18:01:37 start scaning
+2107-12-29 18:01:38 finish scaning
+2107-12-29 18:01:41 scaning data
+2107-12-29 18:01:42 Cooling off CCD
+2107-12-29 19:00:00 Switch on CCD Power
+2107-12-29 19:00:16 Initial CCD success
+2107-12-29 19:00:16 Cool on CCD
+2107-12-29 19:01:38 Start Scanning
+2107-12-29 19:01:39 start scaning

@@ -1,0 +1,27 @@
+2108-01-30 19:01:28 Start Scanning
+2108-01-30 19:01:29 start scaning
+2108-01-30 19:01:30 finish scaning
+2108-01-30 19:01:31 scaning data
+2108-01-30 19:01:34 Cool on CCD
+2108-01-30 19:01:40 Start Scanning
+2108-01-30 19:01:41 finish scaning
+2108-01-30 19:01:42 scaning data
+2108-01-30 20:00:00 Switch on CCD Power
+2108-01-30 20:00:17 Initial CCD success
+2108-01-30 20:00:17 Cool on CCD
+2108-01-30 20:01:49 Start Scanning
+2108-01-30 20:01:50 start scaning
+2108-01-30 20:01:51 finish scaning
+2108-01-30 20:02:02 scaning data
+2108-01-30 20:02:02 Cool on CCD
+2108-01-30 20:02:08 Start Scanning
+2108-01-30 20:02:09 finish scaning
+2108-01-30 20:02:20 scaning data
+2108-01-30 20:02:20 Cool on CCD
+2108-01-30 20:02:26 Start Scanning
+2108-01-30 20:02:27 finish scaning
+2108-01-30 20:02:38 scaning data
+2108-01-30 20:02:38 Cool on CCD
+2108-01-30 20:02:44 Start Scanning
+2108-01-30 20:02:45 finish scaning
+2108-01-30 20:02:56 scaning data

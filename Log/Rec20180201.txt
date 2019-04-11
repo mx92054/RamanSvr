@@ -1,0 +1,2 @@
+2108-02-01 17:21:31 Start COM1 Success
+2108-02-01 17:21:31 Init socket success

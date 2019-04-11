@@ -37,11 +37,16 @@
 
 #include <afxcontrolbars.h>     // 功能区和控件条的 MFC 支持
 
+#define WM_MODBUSSVR   WM_USER + 100 
+#define PIXEL_FLAG		1027
+#define PIXEL			1024
 
-
-
-
-
+#define LOGFILEPATH		"F:\\VcProj\\SvrSytem\\Log\\%s.log"
+#define DATAFILEPATH	"F:\\VcProj\\SvrSytem\\Data\\%s.csv"
+#define DATAPATYMD		"F:\\VcProj\\SvrSytem\\Data\\%04d%02d%02d*.csv"
+#define DATAFILEPATH2	"F:\\VcProj\\SvrSytem\\Data\\%s"
+#define RECFILEPATH		"F:\\VcProj\\SvrSytem\\Log\\Rec%s.txt"
+#define	PORT			502
 
 
 

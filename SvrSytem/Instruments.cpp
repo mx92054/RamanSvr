@@ -4,7 +4,8 @@
 
 #include "stdafx.h"
 #include "Instruments.h"
-//#include "CsvFileHelper.h"
+#include "ATMCD32D.H"
+#include "CsvFileHelper.h"
 
 #ifdef _DEBUG
 #undef THIS_FILE
@@ -315,7 +316,7 @@ bool	CInstrument::ReadHistoryData(u_short year,u_short month, u_short day,u_shor
 	CFileFind fFind ;
 	char	buf[255] ;
 	bool	bRes  = false ;
-/*
+
 	sprintf(buf,DATAPATYMD,year,month,day) ;
 	int		bFind  = fFind.FindFile(buf) ;
 	bool	bHaveFile = false ;
@@ -352,7 +353,7 @@ bool	CInstrument::ReadHistoryData(u_short year,u_short month, u_short day,u_shor
 		m_History[PIXEL+2] = 0X00CC ;
 	}
 
-	fFind.Close() ;*/
+	fFind.Close() ;
 
 	return bRes ;
 }
@@ -583,7 +584,7 @@ DWORD WINAPI  CInstrument::InitialCCD_Thread(void* pParam)
 	float   HSpeed;			//水平迁移速度
 	int		ADnumber;
 
-	//AndorCapabilities caps ;
+	AndorCapabilities caps ;
 	char	model[32] ;		
 	int		gblXPixels ;			//光谱数据长度
 	int		gblYPixels ;			//光谱数据宽度
@@ -596,7 +597,7 @@ DWORD WINAPI  CInstrument::InitialCCD_Thread(void* pParam)
 	}
 	while ( test2 < 4000 );
 
- /*   GetCurrentDirectory(256,aBuffer);	// Look in current working directory
+    GetCurrentDirectory(256,aBuffer);	// Look in current working directory
 										// for driver files
     pIns->m_InputReg[12] = Initialize(aBuffer);		// Initialize driver in current directory
     if( pIns->m_InputReg[12] != DRV_SUCCESS)
@@ -680,7 +681,7 @@ DWORD WINAPI  CInstrument::InitialCCD_Thread(void* pParam)
 	}
 	while ( test2 < 2000 );
 
-	pIns->m_InputReg[13] = 2;*/
+	pIns->m_InputReg[13] = 2;
 
 	return 0 ;
 }

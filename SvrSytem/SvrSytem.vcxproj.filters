@@ -45,6 +45,15 @@
     <ClInclude Include="Instruments.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ATMCD32D.H">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CsvFileHelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LogFileHelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SvrSytem.cpp">
@@ -60,6 +69,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Instruments.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CsvFileHelper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LogFileHelper.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

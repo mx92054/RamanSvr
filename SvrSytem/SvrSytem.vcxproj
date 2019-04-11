@@ -55,6 +55,7 @@
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>ATMCD32M.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <Midl>
       <MkTypLibCompatible>false</MkTypLibCompatible>
@@ -99,7 +100,10 @@
     <None Include="res\SvrSytem.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ATMCD32D.H" />
+    <ClInclude Include="CsvFileHelper.h" />
     <ClInclude Include="Instruments.h" />
+    <ClInclude Include="LogFileHelper.h" />
     <ClInclude Include="ModbusSvr.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
@@ -108,7 +112,9 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CsvFileHelper.cpp" />
     <ClCompile Include="Instruments.cpp" />
+    <ClCompile Include="LogFileHelper.cpp" />
     <ClCompile Include="ModbusSvr.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

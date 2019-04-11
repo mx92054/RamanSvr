@@ -1,0 +1,100 @@
+2108-02-01 17:23:30 Start COM1 Success
+2108-02-01 17:23:30 Init socket success
+2108-02-01 17:35:00 Switch on CCD Power
+2108-02-01 17:35:18 Initial CCD success
+2108-02-01 17:35:18 Cool on CCD
+2108-02-01 17:36:06 Start Scanning
+2108-02-01 17:36:07 start scaning
+2108-02-01 17:36:08 finish scaning
+2108-02-01 17:36:09 scaning data
+2108-02-01 17:36:12 Cool on CCD
+2108-02-01 17:36:18 Start Scanning
+2108-02-01 17:36:19 finish scaning
+2108-02-01 17:36:20 scaning data
+2108-02-01 17:36:24 Cool on CCD
+2108-02-01 17:36:30 Start Scanning
+2108-02-01 17:36:31 finish scaning
+2108-02-01 17:36:32 scaning data
+2108-02-01 19:00:00 Switch on CCD Power
+2108-02-01 19:00:18 Initial CCD success
+2108-02-01 19:00:18 Cool on CCD
+2108-02-01 19:01:24 Start Scanning
+2108-02-01 19:01:25 start scaning
+2108-02-01 19:01:26 finish scaning
+2108-02-01 19:01:27 scaning data
+2108-02-01 19:01:30 Cool on CCD
+2108-02-01 19:01:36 Start Scanning
+2108-02-01 19:01:37 finish scaning
+2108-02-01 19:01:38 scaning data
+2108-02-01 20:00:00 Switch on CCD Power
+2108-02-01 20:00:17 Initial CCD success
+2108-02-01 20:00:17 Cool on CCD
+2108-02-01 20:01:44 Start Scanning
+2108-02-01 20:01:45 start scaning
+2108-02-01 20:01:46 finish scaning
+2108-02-01 20:01:57 scaning data
+2108-02-01 20:01:57 Cool on CCD
+2108-02-01 20:02:03 Start Scanning
+2108-02-01 20:02:04 finish scaning
+2108-02-01 20:02:15 scaning data
+2108-02-01 20:02:15 Cool on CCD
+2108-02-01 20:02:21 Start Scanning
+2108-02-01 20:02:22 finish scaning
+2108-02-01 20:02:33 scaning data
+2108-02-01 20:02:33 Cool on CCD
+2108-02-01 20:02:39 Start Scanning
+2108-02-01 20:02:40 finish scaning
+2108-02-01 20:02:51 scaning data
+2108-02-02 17:35:00 Switch on CCD Power
+2108-02-02 17:35:18 Initial CCD success
+2108-02-02 17:35:18 Cool on CCD
+2108-02-02 17:36:08 Start Scanning
+2108-02-02 17:36:09 start scaning
+2108-02-02 17:36:10 finish scaning
+2108-02-02 17:36:11 scaning data
+2108-02-02 17:36:14 Cool on CCD
+2108-02-02 17:36:20 Start Scanning
+2108-02-02 17:36:21 finish scaning
+2108-02-02 17:36:22 scaning data
+2108-02-02 17:36:26 Cool on CCD
+2108-02-02 17:36:32 Start Scanning
+2108-02-02 17:36:33 finish scaning
+2108-02-02 17:36:34 scaning data
+2108-02-02 19:00:00 Switch on CCD Power
+2108-02-02 19:00:18 Initial CCD success
+2108-02-02 19:00:18 Cool on CCD
+2108-02-02 19:01:24 Start Scanning
+2108-02-02 19:01:25 start scaning
+2108-02-02 19:01:26 finish scaning
+2108-02-02 19:01:27 scaning data
+2108-02-02 19:01:30 Cool on CCD
+2108-02-02 19:01:36 Start Scanning
+2108-02-02 19:01:37 finish scaning
+2108-02-02 19:01:38 scaning data
+2108-02-02 20:00:00 Switch on CCD Power
+2108-02-02 20:00:18 Initial CCD success
+2108-02-02 20:00:18 Cool on CCD
+2108-02-02 20:01:44 Start Scanning
+2108-02-02 20:01:45 start scaning
+2108-02-02 20:01:46 finish scaning
+2108-02-02 20:01:57 scaning data
+2108-02-02 20:01:57 Cool on CCD
+2108-02-02 20:02:03 Start Scanning
+2108-02-02 20:02:04 finish scaning
+2108-02-02 20:02:15 scaning data
+2108-02-02 20:02:15 Cool on CCD
+2108-02-02 20:02:21 Start Scanning
+2108-02-02 20:02:22 finish scaning
+2108-02-02 20:02:33 scaning data
+2108-02-02 20:02:33 Cool on CCD
+2108-02-02 20:02:39 Start Scanning
+2108-02-02 20:02:40 finish scaning
+2108-02-02 20:02:51 scaning data
+2108-02-03 17:35:00 Switch on CCD Power
+2108-02-03 17:35:18 Initial CCD success
+2108-02-03 17:35:18 Cool on CCD
+2108-02-03 17:36:06 Start Scanning
+2108-02-03 17:36:07 start scaning
+2108-02-03 17:36:08 finish scaning
+2108-02-03 17:36:09 scaning data
+2108-02-03 17:36:12 Cool on CCD

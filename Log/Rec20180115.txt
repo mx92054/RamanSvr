@@ -1,0 +1,100 @@
+2108-01-13 17:36:20 Start Scanning
+2108-01-13 17:36:21 finish scaning
+2108-01-13 17:36:22 scaning data
+2108-01-13 17:36:26 Cool on CCD
+2108-01-13 17:36:32 Start Scanning
+2108-01-13 17:36:33 finish scaning
+2108-01-13 17:36:34 scaning data
+2108-01-13 19:00:00 Switch on CCD Power
+2108-01-13 19:00:17 Initial CCD success
+2108-01-13 19:00:17 Cool on CCD
+2108-01-13 19:01:25 Start Scanning
+2108-01-13 19:01:26 start scaning
+2108-01-13 19:01:27 finish scaning
+2108-01-13 19:01:28 scaning data
+2108-01-13 19:01:31 Cool on CCD
+2108-01-13 19:01:37 Start Scanning
+2108-01-13 19:01:38 finish scaning
+2108-01-13 19:01:39 scaning data
+2108-01-13 20:00:00 Switch on CCD Power
+2108-01-13 20:00:18 Initial CCD success
+2108-01-13 20:00:18 Cool on CCD
+2108-01-13 20:01:46 Start Scanning
+2108-01-13 20:01:47 start scaning
+2108-01-13 20:01:48 finish scaning
+2108-01-13 20:01:59 scaning data
+2108-01-13 20:01:59 Cool on CCD
+2108-01-13 20:02:05 Start Scanning
+2108-01-13 20:02:06 finish scaning
+2108-01-13 20:02:17 scaning data
+2108-01-13 20:02:17 Cool on CCD
+2108-01-13 20:02:23 Start Scanning
+2108-01-13 20:02:24 finish scaning
+2108-01-13 20:02:35 scaning data
+2108-01-13 20:02:35 Cool on CCD
+2108-01-13 20:02:41 Start Scanning
+2108-01-13 20:02:42 finish scaning
+2108-01-13 20:02:53 scaning data
+2108-01-14 17:35:00 Switch on CCD Power
+2108-01-14 17:35:18 Initial CCD success
+2108-01-14 17:35:18 Cool on CCD
+2108-01-14 17:36:11 Start Scanning
+2108-01-14 17:36:12 start scaning
+2108-01-14 17:36:13 finish scaning
+2108-01-14 17:36:14 scaning data
+2108-01-14 17:36:17 Cool on CCD
+2108-01-14 17:36:23 Start Scanning
+2108-01-14 17:36:24 finish scaning
+2108-01-14 17:36:25 scaning data
+2108-01-14 17:36:29 Cool on CCD
+2108-01-14 17:36:35 Start Scanning
+2108-01-14 17:36:36 finish scaning
+2108-01-14 17:36:37 scaning data
+2108-01-14 19:00:00 Switch on CCD Power
+2108-01-14 19:00:18 Initial CCD success
+2108-01-14 19:00:18 Cool on CCD
+2108-01-14 19:01:27 Start Scanning
+2108-01-14 19:01:28 start scaning
+2108-01-14 19:01:29 finish scaning
+2108-01-14 19:01:30 scaning data
+2108-01-14 19:01:33 Cool on CCD
+2108-01-14 19:01:39 Start Scanning
+2108-01-14 19:01:40 finish scaning
+2108-01-14 19:01:41 scaning data
+2108-01-14 20:00:00 Switch on CCD Power
+2108-01-14 20:00:17 Initial CCD success
+2108-01-14 20:00:17 Cool on CCD
+2108-01-14 20:01:47 Start Scanning
+2108-01-14 20:01:48 start scaning
+2108-01-14 20:01:49 finish scaning
+2108-01-14 20:02:00 scaning data
+2108-01-14 20:02:00 Cool on CCD
+2108-01-14 20:02:06 Start Scanning
+2108-01-14 20:02:07 finish scaning
+2108-01-14 20:02:18 scaning data
+2108-01-14 20:02:18 Cool on CCD
+2108-01-14 20:02:24 Start Scanning
+2108-01-14 20:02:25 finish scaning
+2108-01-14 20:02:36 scaning data
+2108-01-14 20:02:36 Cool on CCD
+2108-01-14 20:02:42 Start Scanning
+2108-01-14 20:02:43 finish scaning
+2108-01-14 20:02:54 scaning data
+2108-01-15 17:35:00 Switch on CCD Power
+2108-01-15 17:35:18 Initial CCD success
+2108-01-15 17:35:18 Cool on CCD
+2108-01-15 17:36:11 Start Scanning
+2108-01-15 17:36:12 start scaning
+2108-01-15 17:36:13 finish scaning
+2108-01-15 17:36:14 scaning data
+2108-01-15 17:36:17 Cool on CCD
+2108-01-15 17:36:23 Start Scanning
+2108-01-15 17:36:24 finish scaning
+2108-01-15 17:36:25 scaning data
+2108-01-15 17:36:29 Cool on CCD
+2108-01-15 17:36:35 Start Scanning
+2108-01-15 17:36:36 finish scaning
+2108-01-15 17:36:37 scaning data
+2108-01-15 19:00:00 Switch on CCD Power
+2108-01-15 19:00:18 Initial CCD success
+2108-01-15 19:00:18 Cool on CCD

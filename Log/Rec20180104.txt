@@ -1,0 +1,35 @@
+2108-01-03 10:45:10 Start COM1 Success
+2108-01-03 10:45:10 Init socket success
+2108-01-03 18:00:00 Switch on CCD Power
+2108-01-03 18:00:18 Initial CCD success
+2108-01-03 18:00:18 Cool on CCD
+2108-01-03 18:01:32 Start Scanning
+2108-01-03 18:01:33 start scaning
+2108-01-03 18:01:34 finish scaning
+2108-01-03 18:01:35 scaning data
+2108-01-03 18:01:38 Cooling off CCD
+2108-01-03 19:00:00 Switch on CCD Power
+2108-01-03 19:00:18 Initial CCD success
+2108-01-03 19:00:18 Cool on CCD
+2108-01-03 19:01:31 Start Scanning
+2108-01-03 19:01:32 start scaning
+2108-01-03 19:01:33 finish scaning
+2108-01-03 19:01:34 scaning data
+2108-01-03 19:01:37 Cooling off CCD
+2108-01-03 20:00:00 Switch on CCD Power
+2108-01-03 20:00:18 Initial CCD success
+2108-01-03 20:00:18 Cool on CCD
+2108-01-03 20:01:31 Start Scanning
+2108-01-03 20:01:32 start scaning
+2108-01-03 20:01:33 finish scaning
+2108-01-03 20:01:34 scaning data
+2108-01-03 20:01:37 Cooling off CCD
+2108-01-04 14:24:22 Initial CCD success
+2108-01-04 14:31:55 Start COM1 Success
+2108-01-04 14:31:55 Init socket success
+2108-01-04 15:22:05 Initial CCD success
+2108-01-04 16:42:19 Start COM1 Success
+2108-01-04 16:42:19 Init socket success
+2108-01-04 17:04:45 Initial CCD success
+2108-01-04 18:54:16 Start COM1 Success
+2108-01-04 18:54:16 Init socket success

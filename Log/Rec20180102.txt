@@ -1,0 +1,175 @@
+2107-12-29 19:01:40 finish scaning
+2107-12-29 19:01:43 scaning data
+2107-12-29 19:01:44 Cooling off CCD
+2107-12-29 20:00:00 Switch on CCD Power
+2107-12-29 20:00:16 Initial CCD success
+2107-12-29 20:00:16 Cool on CCD
+2107-12-29 20:01:20 Start Scanning
+2107-12-29 20:01:21 start scaning
+2107-12-29 20:01:22 finish scaning
+2107-12-29 20:01:23 scaning data
+2107-12-29 20:01:26 Cooling off CCD
+2107-12-30 18:00:00 Switch on CCD Power
+2107-12-30 18:00:16 Initial CCD success
+2107-12-30 18:00:16 Cool on CCD
+2107-12-30 18:01:39 Start Scanning
+2107-12-30 18:01:40 start scaning
+2107-12-30 18:01:41 finish scaning
+2107-12-30 18:01:44 scaning data
+2107-12-30 18:01:45 Cooling off CCD
+2107-12-30 19:00:00 Switch on CCD Power
+2107-12-30 19:00:16 Initial CCD success
+2107-12-30 19:00:16 Cool on CCD
+2107-12-30 19:01:40 Start Scanning
+2107-12-30 19:01:41 start scaning
+2107-12-30 19:01:42 finish scaning
+2107-12-30 19:01:45 scaning data
+2107-12-30 19:01:46 Cooling off CCD
+2107-12-30 20:00:00 Switch on CCD Power
+2107-12-30 20:00:16 Initial CCD success
+2107-12-30 20:00:16 Cool on CCD
+2107-12-30 20:01:22 Start Scanning
+2107-12-30 20:01:23 start scaning
+2107-12-30 20:01:24 finish scaning
+2107-12-30 20:01:25 scaning data
+2107-12-30 20:01:28 Cooling off CCD
+2107-12-31 18:00:00 Switch on CCD Power
+2107-12-31 18:00:16 Initial CCD success
+2107-12-31 18:00:16 Cool on CCD
+2107-12-31 18:01:37 Start Scanning
+2107-12-31 18:01:38 start scaning
+2107-12-31 18:01:39 finish scaning
+2107-12-31 18:01:42 scaning data
+2107-12-31 18:01:43 Cooling off CCD
+2107-12-31 19:00:00 Switch on CCD Power
+2107-12-31 19:00:17 Initial CCD success
+2107-12-31 19:00:17 Cool on CCD
+2107-12-31 19:01:39 Start Scanning
+2107-12-31 19:01:40 start scaning
+2107-12-31 19:01:41 finish scaning
+2107-12-31 19:01:44 scaning data
+2107-12-31 19:01:45 Cooling off CCD
+2107-12-31 20:00:00 Switch on CCD Power
+2107-12-31 20:00:16 Initial CCD success
+2107-12-31 20:00:16 Cool on CCD
+2107-12-31 20:01:21 Start Scanning
+2107-12-31 20:01:22 start scaning
+2107-12-31 20:01:23 finish scaning
+2107-12-31 20:01:24 scaning data
+2107-12-31 20:01:27 Cooling off CCD
+2108-01-01 18:00:00 Switch on CCD Power
+2108-01-01 18:00:16 Initial CCD success
+2108-01-01 18:00:16 Cool on CCD
+2108-01-01 18:01:38 Start Scanning
+2108-01-01 18:01:39 start scaning
+2108-01-01 18:01:40 finish scaning
+2108-01-01 18:01:43 scaning data
+2108-01-01 18:01:44 Cooling off CCD
+2108-01-01 19:00:00 Switch on CCD Power
+2108-01-01 19:00:16 Initial CCD success
+2108-01-01 19:00:16 Cool on CCD
+2108-01-01 19:01:39 Start Scanning
+2108-01-01 19:01:40 start scaning
+2108-01-01 19:01:41 finish scaning
+2108-01-01 19:01:44 scaning data
+2108-01-01 19:01:45 Cooling off CCD
+2108-01-01 20:00:00 Switch on CCD Power
+2108-01-01 20:00:16 Initial CCD success
+2108-01-01 20:00:16 Cool on CCD
+2108-01-01 20:01:21 Start Scanning
+2108-01-01 20:01:22 start scaning
+2108-01-01 20:01:23 finish scaning
+2108-01-01 20:01:24 scaning data
+2108-01-01 20:01:27 Cooling off CCD
+2108-01-02 10:07:33 Start COM1 Success
+2108-01-02 10:07:34 Init socket success
+2108-01-02 10:19:17 Start COM1 Success
+2108-01-02 10:19:17 Init socket success
+2108-01-02 10:25:00 Start COM1 Success
+2108-01-02 10:25:00 Init socket success
+2108-01-02 10:44:44 Start COM1 Success
+2108-01-02 10:44:44 Init socket success
+2108-01-02 10:58:08 Start COM1 Success
+2108-01-02 10:58:09 Init socket success
+2108-01-02 11:02:42 Start COM1 Success
+2108-01-02 11:02:42 Init socket success
+2108-01-02 11:04:25 Start COM1 Success
+2108-01-02 11:04:25 Init socket success
+2108-01-02 11:06:53 Start COM1 Success
+2108-01-02 11:06:53 Init socket success
+2108-01-02 11:18:10 Initial CCD success
+2108-01-02 11:19:03 setting parameter
+2108-01-02 11:22:08 Start COM1 Success
+2108-01-02 11:22:08 Init socket success
+2108-01-02 11:22:50 Start COM1 Success
+2108-01-02 11:22:50 Init socket success
+2108-01-02 11:23:24 Initial CCD success
+2108-01-02 11:23:34 setting parameter
+2108-01-02 11:37:12 Start COM1 Success
+2108-01-02 11:37:12 Init socket success
+2108-01-02 11:39:20 Start COM1 Success
+2108-01-02 11:39:20 Init socket success
+2108-01-02 11:39:20 Feed watchdog failure
+2108-01-02 11:39:20 Feed watchdog failure
+2108-01-02 11:39:21 Feed watchdog failure
+2108-01-02 11:39:21 Feed watchdog failure
+2108-01-02 11:39:21 Feed watchdog failure
+2108-01-02 11:39:21 Feed watchdog failure
+2108-01-02 11:39:21 Feed watchdog failure
+2108-01-02 11:39:21 Feed watchdog failure
+2108-01-02 11:39:22 Feed watchdog failure
+2108-01-02 11:39:22 Feed watchdog failure
+2108-01-02 11:39:22 Feed watchdog failure
+2108-01-02 11:39:22 Feed watchdog failure
+2108-01-02 11:39:22 Feed watchdog failure
+2108-01-02 11:39:22 Feed watchdog failure
+2108-01-02 11:39:23 Feed watchdog failure
+2108-01-02 11:39:23 Feed watchdog failure
+2108-01-02 11:39:23 Feed watchdog failure
+2108-01-02 11:39:23 Feed watchdog failure
+2108-01-02 11:39:23 Feed watchdog failure
+2108-01-02 11:39:23 Feed watchdog failure
+2108-01-02 11:39:24 Feed watchdog failure
+2108-01-02 11:39:24 Feed watchdog failure
+2108-01-02 11:39:24 Feed watchdog failure
+2108-01-02 11:39:24 Feed watchdog failure
+2108-01-02 11:39:24 Feed watchdog failure
+2108-01-02 11:39:24 Feed watchdog failure
+2108-01-02 11:39:25 Feed watchdog failure
+2108-01-02 11:39:25 Feed watchdog failure
+2108-01-02 11:39:25 Feed watchdog failure
+2108-01-02 11:39:25 Feed watchdog failure
+2108-01-02 11:41:06 Start COM1 Success
+2108-01-02 11:41:06 Init socket success
+2108-01-02 11:42:16 Initial CCD success
+2108-01-02 11:42:20 start scaning
+2108-01-02 11:42:21 finish scaning
+2108-01-02 16:38:07 Start COM1 Success
+2108-01-02 16:38:07 Init socket success
+2108-01-02 17:07:16 Start COM1 Success
+2108-01-02 17:07:16 Init socket success
+2108-01-02 17:08:47 Start COM1 Success
+2108-01-02 17:08:47 Init socket success
+2108-01-02 17:21:25 Start COM1 Success
+2108-01-02 17:21:25 Init socket success
+2108-01-02 17:29:04 Start COM1 Success
+2108-01-02 17:29:04 Init socket success
+2108-01-02 17:52:55 Start COM1 Success
+2108-01-02 17:52:55 Init socket success
+2108-01-02 17:53:32 Initial CCD success
+2108-01-02 17:53:41 start scaning
+2108-01-02 17:53:42 finish scaning
+2108-01-02 17:56:49 Start COM1 Success
+2108-01-02 17:56:49 Init socket success
+2108-01-02 17:57:29 Initial CCD success
+2108-01-02 17:57:39 start scaning
+2108-01-02 17:57:40 finish scaning
+2108-01-02 17:57:41 scaning data
+2108-01-02 18:00:36 Initial CCD success
+2108-01-02 18:00:36 Cool on CCD
+2108-01-02 18:03:00 Start COM1 Success
+2108-01-02 18:03:00 Init socket success
+2108-01-02 18:03:36 Start COM1 Success
+2108-01-02 18:03:36 Init socket success
+2108-01-02 18:05:35 Start COM1 Success
+2108-01-02 18:05:35 Init socket success

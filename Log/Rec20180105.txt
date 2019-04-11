@@ -1,0 +1,52 @@
+2108-01-04 18:56:45 Start COM1 Success
+2108-01-04 18:56:45 Init socket success
+2108-01-04 19:00:00 Switch on CCD Power
+2108-01-04 19:00:17 Initial CCD success
+2108-01-04 19:00:17 Cool on CCD
+2108-01-04 19:01:22 Start Scanning
+2108-01-04 19:01:23 start scaning
+2108-01-04 19:01:24 finish scaning
+2108-01-04 19:01:25 scaning data
+2108-01-04 19:01:28 Cooling off CCD
+2108-01-04 20:00:00 Switch on CCD Power
+2108-01-04 20:00:17 Initial CCD success
+2108-01-04 20:00:17 Cool on CCD
+2108-01-04 20:01:24 Start Scanning
+2108-01-04 20:01:25 start scaning
+2108-01-04 20:01:26 finish scaning
+2108-01-04 20:01:27 scaning data
+2108-01-04 20:01:30 Cooling off CCD
+2108-01-05 08:54:01 Start COM1 Success
+2108-01-05 08:54:01 Init socket success
+2108-01-05 08:54:28 Start COM1 Success
+2108-01-05 08:54:28 Init socket success
+2108-01-05 08:54:34 Start COM1 Success
+2108-01-05 08:54:34 Init socket success
+2108-01-05 08:54:46 Start COM1 Success
+2108-01-05 08:54:46 Init socket success
+2108-01-05 09:00:33 Start COM1 Success
+2108-01-05 09:00:33 Init socket success
+2108-01-05 10:57:40 Start COM1 Success
+2108-01-05 10:57:40 Init socket success
+2108-01-05 11:06:44 Start COM1 Success
+2108-01-05 11:06:44 Init socket success
+2108-01-05 11:07:44 Start COM1 Success
+2108-01-05 11:07:44 Init socket success
+2108-01-05 11:08:07 Start COM1 Success
+2108-01-05 11:08:07 Init socket success
+2108-01-05 11:10:27 Start COM1 Success
+2108-01-05 11:10:27 Init socket success
+2108-01-05 11:13:58 Start COM1 Success
+2108-01-05 11:13:58 Init socket success
+2108-01-05 11:16:25 Start COM1 Success
+2108-01-05 11:16:25 Init socket success
+2108-01-05 11:17:12 Start COM1 Success
+2108-01-05 11:17:12 Init socket success
+2108-01-05 11:17:35 Start COM1 Success
+2108-01-05 11:17:35 Init socket success
+2108-01-05 11:18:59 Start COM1 Success
+2108-01-05 11:18:59 Init socket success
+2108-01-05 11:19:22 Start COM1 Success
+2108-01-05 11:19:22 Init socket success
+2108-01-05 17:19:11 Start COM1 Success
+2108-01-05 17:19:11 Init socket success

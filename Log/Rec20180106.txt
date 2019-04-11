@@ -1,0 +1,7 @@
+2108-01-05 17:29:22 Start COM1 Success
+2108-01-05 17:29:22 Init socket success
+2108-01-05 18:00:00 Switch on CCD Power
+2108-01-05 19:00:00 Switch on CCD Power
+2108-01-05 20:00:00 Switch on CCD Power
+2108-01-06 14:16:39 Start COM1 Success
+2108-01-06 14:16:39 Init socket success
