@@ -1,8 +1,0 @@
-2108-02-27 14:43:19 Start COM1 Success
-2108-02-27 14:43:19 Init socket success
-2108-02-27 14:44:50 Initial CCD success
-2108-02-27 14:47:07 start scaning
-2108-02-27 14:47:08 finish scaning
-2108-02-27 14:47:09 scaning data
-2108-02-27 14:57:59 Start COM1 Success
-2108-02-27 14:57:59 Init socket success
